@@ -1,4 +1,5 @@
 """Provider-neutral interface for future AI analysis."""
+
 from typing import Protocol
 
 
